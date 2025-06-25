@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkLaibnizz_github_io=self.webpackChunkLaibnizz_github_io||[]).push([[110],{7212:i=>{i.exports=JSON.parse('{"metadata":{"permalink":"/Laibnizz.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

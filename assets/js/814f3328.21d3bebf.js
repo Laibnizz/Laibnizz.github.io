@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkLaibnizz_github_io=self.webpackChunkLaibnizz_github_io||[]).push([[472],{5513:i=>{i.exports=JSON.parse('{"title":"\u6240\u6709\u6587\u7ae0","items":[{"title":"Hello World!","permalink":"/Laibnizz.github.io/blog/hello-world","unlisted":false,"date":"2025-06-24T00:00:00.000Z"}]}')}}]);
