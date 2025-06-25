@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://Laibnizz.github.io/Laibnizz.github.io/blog</link>
+        <link>https://Laibnizz.github.io/L/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Tue, 24 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hant</language>
         <item>
             <title><![CDATA[Hello World!]]></title>
-            <link>https://Laibnizz.github.io/Laibnizz.github.io/blog/hello-world</link>
-            <guid>https://Laibnizz.github.io/Laibnizz.github.io/blog/hello-world</guid>
+            <link>https://Laibnizz.github.io/L/blog/hello-world</link>
+            <guid>https://Laibnizz.github.io/L/blog/hello-world</guid>
             <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello World!]]></description>
             <content:encoded><![CDATA[<p>Hello World!</p>

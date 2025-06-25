@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Laibnizz.github.io/Laibnizz.github.io/blog</id>
+    <id>https://Laibnizz.github.io/L/blog</id>
     <title>My Site Blog</title>
     <updated>2025-06-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Laibnizz.github.io/Laibnizz.github.io/blog"/>
+    <link rel="alternate" href="https://Laibnizz.github.io/L/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://Laibnizz.github.io/Laibnizz.github.io/img/Yaudog.png</icon>
+    <icon>https://Laibnizz.github.io/L/img/Yaudog.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
-        <id>https://Laibnizz.github.io/Laibnizz.github.io/blog/hello-world</id>
-        <link href="https://Laibnizz.github.io/Laibnizz.github.io/blog/hello-world"/>
+        <id>https://Laibnizz.github.io/L/blog/hello-world</id>
+        <link href="https://Laibnizz.github.io/L/blog/hello-world"/>
         <updated>2025-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello World!]]></summary>
         <content type="html"><![CDATA[<p>Hello World!</p>
