@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkLaibnizz_github_io=self.webpackChunkLaibnizz_github_io||[]).push([[903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/Laibnizz.github.io/blog","blogTitle":"Blog","authorsListPath":"/Laibnizz.github.io/blog/authors"}')}}]);
